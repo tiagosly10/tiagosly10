@@ -6,9 +6,12 @@
 <div align="center">
   <a href="https://github.com/tiagosly10">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=tiagovieiradc&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+    
+ ### Tecnologias que uso no meu dia-a-dia:
+    
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tiagovieiradc&layout=compact&langs_count=7&theme=tokyonight"/>
 </div>
-  <div style="display: inline_block"><br>
+<div style="display: inline_block"><br>
   <img align="center" alt="tiago-python" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">
   <img align="center" alt="tiago-r" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg">
   <img align="center" alt="tiago-vscode" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg">
@@ -30,6 +33,6 @@
 
 ### Tempo programando em projetos pessoais:
 
-[![Leonardo Motta wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=tiagovieiradc)](https://github.com/tiagovieiradc/github-readme-stats)
+[![Tiago Vieira wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=tiagovieiradc)](https://github.com/tiagovieiradc/github-readme-stats)
 
 Apaixonado por tecnologia, minha família, agronomia, musica e programação.
