@@ -43,4 +43,4 @@
 
 [![Tiago Vieira wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=tiagovieiradc)](https://github.com/tiagovieiradc/github-readme-stats)
 
-<h2 align="left">Apaixonado por tecnologia, minha família, agronomia, msica e programação.</br></samp></h2>
+<h2 align="left">Apaixonado por tecnologia, minha família, agronomia, música e programação.</br></samp></h2>
