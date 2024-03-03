@@ -2,8 +2,8 @@
 
 <p><samp> 
 
-- 🔭 Trabalhando em projetos do programa Trilhas Inova Maranhão
-- 🌱 Estudando Python
+- 🔭 Cientista de dados
+- 🌱 Agro & Inovação
 
   </samp></p>
  <div align="center">
