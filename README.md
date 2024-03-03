@@ -1,4 +1,4 @@
-<h2 align="center"><samp> Seja bem-vindo, sou o Tiago 👨‍🌾!</br>Cientista de dados</br></samp></h2>
+<h2 align="center"><samp> Seja bem-vindo, sou o Tiago 👨‍🌾!</br></br></samp></h2>
 
 <p><samp> 
 
